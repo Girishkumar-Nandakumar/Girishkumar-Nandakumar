@@ -34,21 +34,21 @@ Here are some of my hands-on testing projects:
 ### 🔹 Playwright Automation Projects
 - **Kerala Tourism Website Automation**
   Automated key user flows using Playwright and Java
-  👉 https://github.com/Girishkumar-Nandakumar/KeralaTourism-Playwright-Java-Automation
+    👉 https://github.com/Girishkumar-Nandakumar/KeralaTourism-Playwright-Java-Automation
   
 ### 🔹 Cucumber Automation Projects
 - **Kerala Tourism Website Automation**
   Automated Some key user flows using Cucumber and Java
-  👉 https://github.com/Girishkumar-Nandakumar/Kerala-Tourism-Automation-Cucumber-Java
+    👉 https://github.com/Girishkumar-Nandakumar/Kerala-Tourism-Automation-Cucumber-Java
 
 ### 🔹 Manual Testing Projects
 - **E-commerce Website Manual Testing**  
-  Created test cases, executed tests, and reported defects  
-  👉 https://github.com/Girishkumar-Nandakumar/Manual-Testing-Ecommerce-AcademyBugs
+  Created test cases, executed tests, and reported defects
+    👉 https://github.com/Girishkumar-Nandakumar/Manual-Testing-Ecommerce-AcademyBugs
 
 - **Job portal Website Careers Job Portal**  
-  Created test cases, executed tests, and reported defects  
-  👉 https://github.com/Girishkumar-Nandakumar/Careers-Job-Portal
+  Created test cases, executed tests, and reported defects
+    👉 https://github.com/Girishkumar-Nandakumar/Careers-Job-Portal
 
 ---
 
