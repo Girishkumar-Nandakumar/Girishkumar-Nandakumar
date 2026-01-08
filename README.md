@@ -3,55 +3,64 @@
 ## 👨‍💻 About Me
 I am an aspiring **Software Test Engineer** with a strong interest in **manual testing and test automation**.  
 I enjoy understanding applications deeply, identifying edge cases, and improving software quality through structured testing.  
-Currently focused on building real-world testing projects and improving my automation skills.
+Currently focused on building real-world testing projects and strengthening my automation skills.
 
 ---
 
 ## 🧪 Testing Skills
-- Manual Testing (Test cases, test scenarios, defect reporting)
+
+### Manual Testing
+- Test case & test scenario design
 - Functional, Regression, Smoke & Sanity Testing
+- Defect reporting & tracking
 - SDLC & STLC
+
+### Automation Testing
 - Selenium WebDriver (Java)
 - Playwright (Java)
 - TestNG
-- API Testing (Basics)
-- JIRA (Defect & test tracking)
+- Cucumber (BDD)
+
+### API, Performance & Security
+- API Testing: Postman
+- Performance Testing: Apache JMeter
+- Security Testing (Basics): OWASP ZAP
+
+### Tools & Technologies
+- JIRA
 - SQL (Basic queries for testing)
-- Git & GitHub (Basic)
-- OWASP ZAP (Basic Security Testing)
-- Postman (API testing)
-- Apache JMeter (Performance testing) 
+- Git & GitHub
+
 ---
 
 ## 🛠️ Testing Projects
-Here are some of my hands-on testing projects:
 
-### 🔹 Selenium Automation Projects
-- **Kerala Tourism Website Automation**
-  Automated key user flows using Selenium WebDriver and Java
-  👉 https://github.com/Girishkumar-Nandakumar/KeralaTourismWebsite-AutomationSuite-Java
+### 🔹 Selenium Automation
+**Kerala Tourism Website Automation**  
+Automated critical user flows such as navigation, form validation, and content verification using Selenium WebDriver and Java.  
+👉 https://github.com/Girishkumar-Nandakumar/KeralaTourismWebsite-AutomationSuite-Java
 
-### 🔹 Playwright Automation Projects
-- **Kerala Tourism Website Automation**
-  Automated key user flows using Playwright and Java
-    👉 https://github.com/Girishkumar-Nandakumar/KeralaTourism-Playwright-Java-Automation
-  
-### 🔹 Cucumber Automation Projects
-- **Kerala Tourism Website Automation**
-  Automated Some key user flows using Cucumber and Java
-    👉 https://github.com/Girishkumar-Nandakumar/Kerala-Tourism-Automation-Cucumber-Java
+### 🔹 Playwright Automation
+**Kerala Tourism Website Automation**  
+Implemented end-to-end automation using Playwright and Java to compare modern automation approaches with Selenium.  
+👉 https://github.com/Girishkumar-Nandakumar/KeralaTourism-Playwright-Java-Automation
 
-### 🔹 Manual Testing Projects
-- **E-commerce Website Manual Testing**  
-  Created test cases, executed tests, and reported defects
-    👉 https://github.com/Girishkumar-Nandakumar/Manual-Testing-Ecommerce-AcademyBugs
+### 🔹 Cucumber (BDD) Automation
+**Kerala Tourism Website Automation**  
+Automated selected user scenarios using Cucumber with Java to practice BDD-style testing.  
+👉 https://github.com/Girishkumar-Nandakumar/Kerala-Tourism-Automation-Cucumber-Java
 
-- **Job portal Website Careers Job Portal**  
-  Created test cases, executed tests, and reported defects
-    👉 https://github.com/Girishkumar-Nandakumar/Careers-Job-Portal
+### 🔹 Manual Testing
+**E-commerce Website Manual Testing (AcademyBugs)**  
+Created and executed test cases, identified defects, and documented test results.  
+👉 https://github.com/Girishkumar-Nandakumar/Manual-Testing-Ecommerce-AcademyBugs
+
+**Job Portal Website Manual Testing**  
+Performed functional testing, test case design, and defect reporting for a careers/job portal application.  
+👉 https://github.com/Girishkumar-Nandakumar/Careers-Job-Portal
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/girishkumar-nandakumar
+- LinkedIn: https://www.linkedin.com/in/girishkumar-nandakumar  
 - GitHub: https://github.com/Girishkumar-Nandakumar
