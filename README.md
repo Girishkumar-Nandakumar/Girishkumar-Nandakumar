@@ -24,7 +24,7 @@ Currently focused on building real-world testing projects and strengthening my a
 ### API, Performance & Security
 - API Testing: Postman
 - Performance Testing: Apache JMeter
-- Security Testing (Basics): OWASP ZAP
+- Security Testing (Basics): OWASP ZAP, Burpe Suite Community edition
 
 ### Tools & Technologies
 - JIRA
